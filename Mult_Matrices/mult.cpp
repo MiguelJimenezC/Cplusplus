@@ -8,7 +8,7 @@ int main(){
   int rows_1, rows_2, cols_1, cols_2;
 
   int matrice_output [10][10];
-
+  
   int temp_mult = 0;
   cout << "Enter rows and columns for first matrix: ";
   cin >> rows_1 >> cols_1;
